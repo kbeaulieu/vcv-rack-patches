@@ -1,0 +1,158 @@
+{
+  "version": "0.6.2c",
+  "modules": [
+    {
+      "plugin": "AudibleInstruments",
+      "version": "0.6.3",
+      "model": "Rings",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 0.0
+        },
+        {
+          "paramId": 1,
+          "value": 0.0
+        },
+        {
+          "paramId": 2,
+          "value": 34.0200043
+        },
+        {
+          "paramId": 3,
+          "value": 0.837500215
+        },
+        {
+          "paramId": 4,
+          "value": 0.5
+        },
+        {
+          "paramId": 5,
+          "value": 0.5
+        },
+        {
+          "paramId": 6,
+          "value": 0.5
+        },
+        {
+          "paramId": 7,
+          "value": 0.0
+        },
+        {
+          "paramId": 8,
+          "value": 0.0
+        },
+        {
+          "paramId": 9,
+          "value": 0.0
+        },
+        {
+          "paramId": 10,
+          "value": 0.0
+        },
+        {
+          "paramId": 11,
+          "value": 0.0
+        }
+      ],
+      "data": {
+        "polyphony": 0,
+        "model": 1,
+        "easterEgg": false
+      },
+      "pos": [
+        33,
+        0
+      ]
+    },
+    {
+      "plugin": "Core",
+      "version": "0.6.2c",
+      "model": "AudioInterface",
+      "params": [],
+      "data": {
+        "audio": {
+          "driver": 5,
+          "deviceName": "Apple Inc.: Built-in Output",
+          "offset": 0,
+          "maxChannels": 8,
+          "sampleRate": 44100,
+          "blockSize": 256
+        }
+      },
+      "pos": [
+        55,
+        0
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "version": "0.6.2",
+      "model": "VCO",
+      "params": [
+        {
+          "paramId": 0,
+          "value": 1.0
+        },
+        {
+          "paramId": 1,
+          "value": 1.0
+        },
+        {
+          "paramId": 2,
+          "value": 0.0
+        },
+        {
+          "paramId": 3,
+          "value": 0.0
+        },
+        {
+          "paramId": 5,
+          "value": 0.5
+        },
+        {
+          "paramId": 4,
+          "value": 0.0
+        },
+        {
+          "paramId": 6,
+          "value": 0.0
+        }
+      ],
+      "pos": [
+        19,
+        0
+      ]
+    },
+    {
+      "plugin": "Core",
+      "version": "0.6.2c",
+      "model": "MIDIToCVInterface",
+      "params": [],
+      "data": {
+        "divisions": [
+          24,
+          6
+        ],
+        "midi": {
+          "driver": -11,
+          "deviceName": "QWERTY keyboard (US)",
+          "channel": -1
+        }
+      },
+      "pos": [
+        30,
+        1
+      ]
+    }
+  ],
+  "wires": [
+    {
+      "color": "#0986ad",
+      "outputModuleId": 3,
+      "outputId": 1,
+      "inputModuleId": 2,
+      "inputId": 3
+    }
+  ]
+}
