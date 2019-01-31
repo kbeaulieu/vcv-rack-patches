@@ -1,0 +1,22 @@
+{
+  "token": "MhQnhwPRfdEQNliaSHeq",
+  "windowSize": [
+    1880.0,
+    996.0
+  ],
+  "windowPos": [
+    1940.0,
+    -29.0
+  ],
+  "wireOpacity": 100.0,
+  "wireTension": 0.699999988,
+  "zoom": 1.17999995,
+  "allowCursorLock": true,
+  "sampleRate": 44100.0,
+  "lastPath": "/Users/kevenbeaulieu/Documents/Rack/patches/midi.vcv",
+  "moduleBrowser": {
+    "favorites": []
+  },
+  "powerMeter": false,
+  "checkVersion": true
+}
