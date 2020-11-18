@@ -1,0 +1,31 @@
+{
+  "token": "",
+  "windowSize": [
+    1396.0,
+    915.0
+  ],
+  "windowPos": [
+    2178.0,
+    95.0
+  ],
+  "zoom": 0.0,
+  "invertZoom": false,
+  "cableOpacity": 0.5,
+  "cableTension": 0.5,
+  "allowCursorLock": true,
+  "realTime": false,
+  "sampleRate": 44100.0,
+  "threadCount": 1,
+  "paramTooltip": false,
+  "cpuMeter": false,
+  "lockModules": false,
+  "frameSwapInterval": 1,
+  "autosavePeriod": 15.0,
+  "patchPath": "/Users/kevenbeaulieu/Documents/Rack/autosave.vcv",
+  "cableColors": [
+    "#c9b70e",
+    "#0c8e15",
+    "#c91847",
+    "#0986ad"
+  ]
+}

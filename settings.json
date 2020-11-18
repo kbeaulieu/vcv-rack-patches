@@ -2,18 +2,18 @@
   "token": "MhQnhwPRfdEQNliaSHeq",
   "windowSize": [
     1880.0,
-    996.0
+    1018.0
   ],
   "windowPos": [
-    1940.0,
-    -29.0
+    20.0,
+    42.0
   ],
   "wireOpacity": 100.0,
-  "wireTension": 0.699999988,
-  "zoom": 1.17999995,
+  "wireTension": 0.55799973,
+  "zoom": 1.0,
   "allowCursorLock": true,
   "sampleRate": 44100.0,
-  "lastPath": "/Users/kevenbeaulieu/Documents/Rack/patches/midi.vcv",
+  "lastPath": "/Users/kevenbeaulieu/Documents/Rack/patches/module-types.vcv",
   "moduleBrowser": {
     "favorites": []
   },
