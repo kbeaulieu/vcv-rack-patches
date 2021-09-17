@@ -1,27 +1,27 @@
 {
-  "token": "",
+  "token": "YtKp6cKpaZXdQl9h7ufg",
   "windowSize": [
-    1396.0,
-    915.0
+    1890.0,
+    1000.0
   ],
   "windowPos": [
-    2178.0,
-    95.0
+    15.0,
+    65.0
   ],
-  "zoom": 0.0,
+  "zoom": 0.21100001,
   "invertZoom": false,
-  "cableOpacity": 0.5,
+  "cableOpacity": 0.49699989,
   "cableTension": 0.5,
   "allowCursorLock": true,
   "realTime": false,
   "sampleRate": 44100.0,
-  "threadCount": 1,
+  "threadCount": 4,
   "paramTooltip": false,
   "cpuMeter": false,
   "lockModules": false,
   "frameSwapInterval": 1,
   "autosavePeriod": 15.0,
-  "patchPath": "/Users/kevenbeaulieu/Documents/Rack/autosave.vcv",
+  "patchPath": "",
   "cableColors": [
     "#c9b70e",
     "#0c8e15",
